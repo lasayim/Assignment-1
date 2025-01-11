@@ -364,6 +364,17 @@ input[type="submit"] {
     color: rgba(14, 14, 14, 0.7);
 }
 
+/* footer section styles */
+.end {
+    text-align: center;
+}
+.footer-img {
+    margin: 15px;
+     
+}
+hr {
+    margin: 0 160px;
+}
 
 
 
