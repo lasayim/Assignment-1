@@ -216,11 +216,12 @@ select {
 /* Recent news styles */
 .recent-news {
     display: flex;
-    width: 1200px;
-    gap: 32px;
+    width: 1120px;
+    gap: 25px;
     background-color: rgb(255, 255, 255);
     padding: 48px;
     border-radius: 24px;
+    margin: 0 auto;
 }
 .news {
     margin: 80px 160px;
@@ -312,11 +313,37 @@ select {
     
 }
 
+       /* Hover */
+.nbt-btn, .green-1:hover {
+    background-color:darkgray;
+}
+.btn-primary:hover {
+    background-color:bisque;
+}
+ .re-btn-1:hover {
+    background-color: brown;
+    color: bisque;
+
+}
+ .re-btn-2:hover {
+    background-color: brown;
+    color: bisque;
+
+}
+ .re-btn-3:hover {
+    background-color: brown;
+    color: bisque;
+
+}
+
+
+
 /* subscribe newslesser styles */
 .subscribe {
     text-align: center;
     background-color: rgb(198, 228, 214);
-    margin: 80px 160px;
+    margin: 0 auto;
+    width: 1200px;
     border-radius: 24px;
 }
 .subscribe-title {
