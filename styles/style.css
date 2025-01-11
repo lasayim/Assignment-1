@@ -314,12 +314,18 @@ select {
 }
 
        /* Hover */
-.nbt-btn, .green-1:hover {
+ .green-1:hover {
     background-color:darkgray;
 }
 .btn-primary:hover {
-    background-color:bisque;
+    background-color: beige;
+
+
 }
+.nbt-btn:hover {
+    background-color: burlywood;
+}
+
  .re-btn-1:hover {
     background-color: brown;
     color: bisque;
